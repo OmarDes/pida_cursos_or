@@ -1,6 +1,2 @@
-# pid_mooc_or
+# PID
 **Proyecto individual Data Analytics**
-*Hola Mundo*
-*Hola Mundo*
-**Hola Mundo**
-*Hola Mundo*
